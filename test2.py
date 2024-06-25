@@ -1,1 +1,2 @@
-print("2nd attempt")
+a = input()
+print(a.upper())
